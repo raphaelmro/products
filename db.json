@@ -1,8 +1,22 @@
 {
-  "produtos":[
-
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão Líquido",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Sabão em pó",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Biscoito",
+      "categoria": 2
+    }
   ],
-  "categorias":[
+  "categorias": [
     {
       "id": 1,
       "categoria": "Limpeza"
@@ -10,6 +24,26 @@
     {
       "id": 2,
       "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Utilidades"
+    },
+    {
+      "categoria": "Teste",
+      "id": 4
+    },
+    {
+      "categoria": "Bebida",
+      "id": 5
+    },
+    {
+      "categoria": "Cigarro",
+      "id": 6
+    },
+    {
+      "categoria": "Chocolates",
+      "id": 7
     }
   ]
 }
